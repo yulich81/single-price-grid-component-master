@@ -16,7 +16,7 @@ body {
   font-family: 'Karla',
     sans-serif;
   font-weight: 16px;
-  background: var(--grayishblue);
+  background: var(--lightgray);
   color: var(--lightgray);
   line-height: 1.3;
   font-weight: 400;
