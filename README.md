@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/yulich81/single-price-grid-component-master)
+- Live Site URL: [Netlify](https://teal-pudding-b5662f.netlify.app/)
 
 ## My process
 
